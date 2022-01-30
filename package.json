@@ -1,0 +1,11 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Colin23333/2022.git",
+  "author": "wangchaomin <319151881@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
